@@ -1,0 +1,30 @@
+c:\users\sdelosantos\documents\visual studio 2017\Projects\IMC_Project\IMC_Project\bin\Debug\IMC_Project.exe.config
+c:\users\sdelosantos\documents\visual studio 2017\Projects\IMC_Project\IMC_Project\bin\Debug\IMC_Project.exe
+c:\users\sdelosantos\documents\visual studio 2017\Projects\IMC_Project\IMC_Project\bin\Debug\IMC_Project.pdb
+c:\users\sdelosantos\documents\visual studio 2017\Projects\IMC_Project\IMC_Project\obj\Debug\IMC_Project.csprojResolveAssemblyReference.cache
+c:\users\sdelosantos\documents\visual studio 2017\Projects\IMC_Project\IMC_Project\obj\Debug\IMC_Project.exe
+c:\users\sdelosantos\documents\visual studio 2017\Projects\IMC_Project\IMC_Project\obj\Debug\IMC_Project.pdb
+I:\IMC_Project\IMC_Project\bin\Debug\IMC_Project.exe.config
+I:\IMC_Project\IMC_Project\obj\Debug\IMC_Project.exe
+I:\IMC_Project\IMC_Project\obj\Debug\IMC_Project.pdb
+E:\IMC_Project\IMC_Project\bin\Debug\IMC_Project.exe.config
+E:\IMC_Project\IMC_Project\bin\Debug\IMC_Project.exe
+E:\IMC_Project\IMC_Project\bin\Debug\IMC_Project.pdb
+E:\IMC_Project\IMC_Project\obj\Debug\IMC_Project.csprojResolveAssemblyReference.cache
+E:\IMC_Project\IMC_Project\obj\Debug\IMC_Project.csproj.CoreCompileInputs.cache
+E:\IMC_Project\IMC_Project\obj\Debug\IMC_Project.exe
+E:\IMC_Project\IMC_Project\obj\Debug\IMC_Project.pdb
+C:\Users\bmedrano\Desktop\IMC_Project\IMC_Project\IMC_Project\bin\Debug\IMC_Project.exe.config
+C:\Users\bmedrano\Desktop\IMC_Project\IMC_Project\IMC_Project\bin\Debug\IMC_Project.exe
+C:\Users\bmedrano\Desktop\IMC_Project\IMC_Project\IMC_Project\bin\Debug\IMC_Project.pdb
+C:\Users\bmedrano\Desktop\IMC_Project\IMC_Project\IMC_Project\obj\Debug\IMC_Project.csprojResolveAssemblyReference.cache
+C:\Users\bmedrano\Desktop\IMC_Project\IMC_Project\IMC_Project\obj\Debug\IMC_Project.csproj.CoreCompileInputs.cache
+C:\Users\bmedrano\Desktop\IMC_Project\IMC_Project\IMC_Project\obj\Debug\IMC_Project.exe
+C:\Users\bmedrano\Desktop\IMC_Project\IMC_Project\IMC_Project\obj\Debug\IMC_Project.pdb
+C:\Users\fbinet\Desktop\FrancisProyect\IMC_Project\bin\Debug\IMC_Project.exe.config
+C:\Users\fbinet\Desktop\FrancisProyect\IMC_Project\bin\Debug\IMC_Project.exe
+C:\Users\fbinet\Desktop\FrancisProyect\IMC_Project\bin\Debug\IMC_Project.pdb
+C:\Users\fbinet\Desktop\FrancisProyect\IMC_Project\obj\Debug\IMC_Project.csprojResolveAssemblyReference.cache
+C:\Users\fbinet\Desktop\FrancisProyect\IMC_Project\obj\Debug\IMC_Project.csproj.CoreCompileInputs.cache
+C:\Users\fbinet\Desktop\FrancisProyect\IMC_Project\obj\Debug\IMC_Project.exe
+C:\Users\fbinet\Desktop\FrancisProyect\IMC_Project\obj\Debug\IMC_Project.pdb
